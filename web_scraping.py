@@ -9,10 +9,10 @@ def download_PDFs():
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
     pdf_links = []
-    # Encontrar links para os anexos I e II
+    # Encontrar links para os anexos I e II, considerando o uso de "_"
     for link in soup.find_all("a", href=True):
         href = link["href"]
-        if "anexo-i" in href.lower() or "anexo-ii" in href.lower():
+        if "anexo_i" in href.lower() or "anexo_ii" in href.lower():
             if href.startswith("/"):
                 href = "https://www.gov.br" + href
             pdf_links.append(href)
@@ -32,7 +32,7 @@ def download_PDFs():
             f.write(pdf_response.content)
     return pdf_files
 
-def zip_PDFs(pdf_files, zip_name="anexos.zip"):
+def zip_pdfs(pdf_files, zip_name="anexos.zip"):
     with zipfile.ZipFile(zip_name, "w", zipfile.ZIP_DEFLATED) as zipf:
         for pdf in pdf_files:
             zipf.write(pdf, os.path.basename(pdf))
@@ -41,4 +41,4 @@ def zip_PDFs(pdf_files, zip_name="anexos.zip"):
 if __name__ == "__main__":
     pdf_files = download_PDFs()
     if pdf_files:
-        zip_PDFs(pdf_files)
+        zip_pdfs(pdf_files)
