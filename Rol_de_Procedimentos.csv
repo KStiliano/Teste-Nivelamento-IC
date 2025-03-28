@@ -1,0 +1,753 @@
+,Probabilidade pré-teste em pacientes com dor torácica (%),,,,,,,,,,,,,,,,,,
+Idade,,,Angina Típica,,,,,,Angina Atípica,,,,,,Dor não anginosa,,,,
+,,,Homem,,,Mulher,,,Homem,,,Mulher,,,Homem,,,Mulher,
+30-39,,"59,1",,,"22,5",,,"28,9",,,"9,6",,,"17,7",,,"5,3",,
+40-49,,"68,9",,,"36,7",,,"38,4",,,14,,,"24,8",,,8,,
+50-59,,"77,3",,,"47,1",,,"48,9",,,20,,,"33,6",,,"11,7",,
+60-69,,"83,9",,,"57,7",,,"59,4",,,"27,7",,,"43,7",,,"16,9",,
+70-79,,"88,9",,,"67,7",,,"69,2",,,37,,,"54,4",,,"23,8",,
+>80,,"92,5",,,"76,3",,,"77,5",,,"47,4",,,"64,6",,,"32,3",,
+"Alto Potencial Emetogênico
+(> 90%)",,"Moderado Potencial Emetogênico
+(30 - 90%)",,"Baixo Potencial Emetogênico
+(10 - 30%)",,,,,,,,,,,,,,,
+"Esquema Adulto:
+1. Antagonista dos receptores
+NK1",Esquema Adulto:,"Esquema Adulto:
+1. Antagonista dos receptores NK1",Esquema Adulto:,"Esquema Adulto:
+1. Corticóide ou cloridrato de
+metoclopramida",Esquema Adulto:,,,,,,,,,,,,,,
+,1. Antagonista dos receptores,,1. Antagonista dos receptores NK1,,1. Corticóide ou cloridrato de,,,,,,,,,,,,,,
+,NK1,,,,metoclopramida,,,,,,,,,,,,,,
+2. Corticosteróides,2. Corticosteróides,2. Corticosteróides,2. Corticosteróides,,,,,,,,,,,,,,,,
+,3. Antagonista do receptor 5-,3. Antagonista do receptor 5-HT3,3. Antagonista do receptor 5-HT3,,,,,,,,,,,,,,,,
+,HT3,,,,,,,,,,,,,,,,,,
+"Opcional
+Benzodiazepínico; Inibidor da
+bomba de protóns ou
+antagonista do receptor H2",,"O p c i o n a l
+Benzodiazepínico; Inibidor da bomba
+de protóns ou antagonista do
+receptor H2",,"O p c i o n a l
+Benzodiazepínico; Inibidor da
+bomba de protóns ou
+antagonista do receptor H2",,,,,,,,,,,,,,,
+,Opcional,,O p c i o n a l,,O p c i o n a l,,,,,,,,,,,,,,
+,Benzodiazepínico; Inibidor da,,Benzodiazepínico; Inibidor da bomba,,Benzodiazepínico; Inibidor da,,,,,,,,,,,,,,
+,bomba de protóns ou,,de protóns ou antagonista do,,bomba de protóns ou,,,,,,,,,,,,,,
+,antagonista do receptor H2,,receptor H2,,antagonista do receptor H2,,,,,,,,,,,,,,
+"Esquema Pediátrico:
+1. Antagonista do receptor 5-
+HT3
+2. Corticosteróides",Esquema Pediátrico:,"Esquema Pediátrico:
+1. Antagonista do receptor 5-HT3
+2. Corticosteróides",Esquema Pediátrico:,"Esquema Pediátrico:
+Nenhuma recomendação devido
+à falta de estudos. Adotar
+protocolo similar ao dos
+adultos, sendo a dose passível
+de ajuste.",Esquema Pediátrico:,,,,,,,,,,,,,,
+,1. Antagonista do receptor 5-,,1. Antagonista do receptor 5-HT3,,Nenhuma recomendação devido,,,,,,,,,,,,,,
+,HT3,,2. Corticosteróides,,à falta de estudos. Adotar,,,,,,,,,,,,,,
+,2. Corticosteróides,,,,protocolo similar ao dos,,,,,,,,,,,,,,
+,,,,,"adultos, sendo a dose passível",,,,,,,,,,,,,,
+,,,,,de ajuste.,,,,,,,,,,,,,,
+Alto Potencial Emetogênico,,,,,,,,,,,,,,,,,,,
+(> 90%),,,,,,,,,,,,,,,,,,,
+Moderado Potencial Emetogênico,,,,,,,,,,,,,,,,,,,
+(30 - 90%),,,,,,,,,,,,,,,,,,,
+Baixo Potencial Emetogênico,,,,,,,,,,,,,,,,,,,
+(10 - 30%),,,,,,,,,,,,,,,,,,,
+,Antiemético,,,,,,,,,,,,,,,,,,
+,Corticosteróides,,,,,,,,,,,,,,,,,,
+,Antagonistas 5HT3,,,,,,,,,,,,,,,,,,
+,Bezodiazepínico,,,,,,,,,,,,,,,,,,
+,Haloperidol,,,,,,,,,,,,,,,,,,
+,Metoclopramida,,,,,,,,,,,,,,,,,,
+,Olanzapina,,,,,,,,,,,,,,,,,,
+,Escopolamina,,,,,,,,,,,,,,,,,,
+,Fenotiazina,,,,,,,,,,,,,,,,,,
+Medicamento,Forma,"Mínimo: Menos de 10%
+apresentam vômitos","Baixo: 10% - 30%
+apresentam vômitos","Moderado: 30% - 90%
+apresentam vômitos","Alto: 90% ou mais
+apresentam vômitos",,,,,,,,,,,,,,
+"AC, com doxorrubicina ou epirrubicina mais
+ciclofosfamida",INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Aldesleucina (>12MUI/m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Aldesleucina (=2MUI/ m2),INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Alemtuzumabe,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Alfainterferona (<5MUI/ m2),INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Alfainterferona (>5<10MUI/ m2),INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Alfainterferona (=10MUI/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Altretamina,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Amifostina (> 300mg/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Amifostina (< ou = 300mg/m2),INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Asparginase,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Azacitidina,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Bendamustina,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Bevacizumabe,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Bleomicina,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Bortezomibe,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Bussulfano,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Cabazitaxel,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Capecitabina,ORAL,,2,,,,,,,,,,,,,,,,
+Carbazitaxel,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Carboplatina,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Carmustina (> 250mg/m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Carmustina (=250mg/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Catumaxumabe,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Cetuximabe,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Ciclofosfamida,ORAL,,,3,,,,,,,,,,,,,,,
+Ciclofosfamida (> 1500mg/m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Ciclofosfamida (=750mg=1500mg/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Cisplatina (< 50mg/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Cisplatina (=50mg/m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Citarabina (< 100mg/m2),INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Citarabina (> 200mg/ m2),INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Citarabina (100 -200mg/ m2),INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Cladribina (2-Clorodeoxiadenosina),INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Clofarabina,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Clorambucila,ORAL,1,,,,,,,,,,,,,,,,,
+Dacarbazina,INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Dactinomicina,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Dasatinibe,ORAL,1,,,,,,,,,,,,,,,,,
+Daunorrubicina,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Decitabina,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Denileukin diftitox,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Dexrazoxano,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Docetaxel,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Doxorrubicina lipossomal,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Doxorrubicina(=60mg/ m2),INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Doxorubicina (> 60mg/ m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Epirrubicina (=90mg/ m2),INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Epirrubicina (< ou = 90mg/m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Eribulina,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+"Erlotinibe, Cloridrato de",ORAL,1,,,,,,,,,,,,,,,,,
+Estreptozocina,INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Etoposídeo,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Floxuridina,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Fludarabina,ORAL/INJ,1,,,,,,,,,,,,,,,,,
+Fluorouracila,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Fotemustina (150 -200mg/ m2),INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Gefitinibe,ORAL,1,,,,,,,,,,,,,,,,,
+Gencitabina,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+Hidroxiuréia,ORAL,1,,,,,,,,,,,,,,,,,
+Idarrubicina,INJETÁVEL,,,4,,,,,,,,,,,,,,,
+Ifosfamida (< 10mg/ m2),INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Ifosfamida (=10g/ m2),INJETÁVEL,,,,5,,,,,,,,,,,,,,
+Ipilimumabe,INJETÁVEL,1,,,,,,,,,,,,,,,,,
+Irinotecano,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Ixabepilone,INJETÁVEL,,2,,,,,,,,,,,,,,,,
+"Lapatinibe, Ditosilato de",ORAL,1,,,,,,,,,,,,,,,,,
+Lomustina,INJETÁVEL,,,3,,,,,,,,,,,,,,,
+Mecloretamina,INJETÁVEL,,,,5,,,,,,,,,,,,,,
+ITENS,PONTOS,,,,,,,,,,,,,,,,,,
+,1 ponto,2 pontos,3 pontos,,,,,,,,,,,,,,,,
+Idade,< 25 anos,26 a 50 anos,>50 anos,,,,,,,,,,,,,,,,
+Tabagismo,,Leve / moderado,Intenso,,,,,,,,,,,,,,,,
+Diabetes,,Sim,,,,,,,,,,,,,,,,,
+Hipertensão Art. Sist.,,Sim,,,,,,,,,,,,,,,,,
+Queimadura,,"< 30% da
+superfície corporal","> 30% da
+superfície corporal",,,,,,,,,,,,,,,,
+Osteomielite,,Sim,c/ exposição óssea,,,,,,,,,,,,,,,,
+Toxemia,,Moderada,Intensa,,,,,,,,,,,,,,,,
+Choque,,Estabilizado,Instável,,,,,,,,,,,,,,,,
+Infecção / Secreção,Pouca,Moderada,Acentuada,,,,,,,,,,,,,,,,
+> Diâmetro DA > Lesão,< 5 cm,5 a 10 cm,> 10 cm,,,,,,,,,,,,,,,,
+Crepitação Subcutânea,< 2 cm,2 a 6 cm,> 6 cm,,,,,,,,,,,,,,,,
+Celulite,< 5 cm,5 a 10 cm,> 10 cm,,,,,,,,,,,,,,,,
+Insuf. Arterial Aguda,,Sim,,,,,,,,,,,,,,,,,
+Insuf. Arterial Crônica,,,Sim,,,,,,,,,,,,,,,,
+Lesão Aguda,,Sim,,,,,,,,,,,,,,,,,
+Lesão Crônica,,,Sim,,,,,,,,,,,,,,,,
+FQAlteração Linfática,,Sim,,,,,,,,,,,,,,,,,
+Amputação/Desbridamento,Em risco,Planejada,Realizada,,,,,,,,,,,,,,,,
+Dreno de Tórax,,Sim,,,,,,,,,,,,,,,,,
+Ventilação Mecânica,,Sim,,,,,,,,,,,,,,,,,
+Períneo / Mama / Face,,,Sim,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+Abemaciclibe,Mama,,Tratamento de pacientes adultos com câncer de mama,,,,,,,,,,,,,,,,
+,,,"avançado ou metastático, com receptor hormonal positivo",,,,,,,,,,,,,,,,
+,,,(HR positivo) e receptor do fator de crescimento,,,,,,,,,,,,,,,,
+,,,epidérmico humano 2 negativo (HER2 negativo):,,,,,,,,,,,,,,,,
+,,,- em combinação com um inibidor da aromatase como,,,,,,,,,,,,,,,,
+,,,terapia endócrina inicial;,,,,,,,,,,,,,,,,
+,,,- em combinação com fulvestranto como terapia endócrina,,,,,,,,,,,,,,,,
+,,,inicial ou após terapia endócrina;,,,,,,,,,,,,,,,,
+,,,"- como agente único, após progressão da doença após o",,,,,,,,,,,,,,,,
+,,,uso de terapia endócrina e 1 ou 2 regimes quimioterápicos,,,,,,,,,,,,,,,,
+,,,anteriores para doença metastática. (Incluído pela RN nº,,,,,,,,,,,,,,,,
+,,,"477, a partir de 14/01/2022)",,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+"Abiraterona, Acetato de",Próstata,"Metastático resistente à castração que são assintomáticos
+ou levemente sintomáticos, após falha à terapia de
+privação androgênica.",,,,,,,,,,,,,,,,,
+,Próstata,,Avançado metastático resistente à castração e que,,,,,,,,,,,,,,,,
+,,,receberam quimioterapia prévia com docetaxel.,,,,,,,,,,,,,,,,
+,Próstata,,"Associada ou não ao docetaxel, para o tratamento de",,,,,,,,,,,,,,,,
+,,,pacientes com câncer de próstata metastático sensível à,,,,,,,,,,,,,,,,
+,,,"castração (CPSCm). (Incluído pela RN nº 616/2024, em",,,,,,,,,,,,,,,,
+,,,vigor a partir de 22/10/2024),,,,,,,,,,,,,,,,
+Acalabrutinibe,"LLC - Leucemia Linfocítica
+Crônica",,Tratamento de pacientes adultos com leucemia linfocítica,,,,,,,,,,,,,,,,
+,,,crônica (LLC) / Linfoma linfocítico de pequenas células,,,,,,,,,,,,,,,,
+,,,(LLPC) em primeira linha de tratamento. (Incluído pela RN,,,,,,,,,,,,,,,,
+,,,"nº 537, a partir de 31/05/2022)",,,,,,,,,,,,,,,,
+,"LLC - Leucemia Linfocítica
+Crônica",,Tratamento de pacientes adultos com leucemia linfocítica,,,,,,,,,,,,,,,,
+,,,crônica (LLC) / Linfoma linfocítico de pequenas células,,,,,,,,,,,,,,,,
+,,,"(LLPC) recidivada ou refratária. (Incluído pela RN nº 537, a",,,,,,,,,,,,,,,,
+,,,partir de 31/05/2022),,,,,,,,,,,,,,,,
+,"LCM - Linfoma de células
+do manto",,Tratamento de pacientes adultos com linfoma de células,,,,,,,,,,,,,,,,
+,,,do manto (LCM) que receberam pelo menos uma terapia,,,,,,,,,,,,,,,,
+,,,anterior.,"(Incluído pela RN nº 537, a partir de 31/05/2022)",,,,,,,,,,,,,,,
+Afatinibe,Pulmão,,"Primeira linha, para pacientes adultos, com câncer de",,,,,,,,,,,,,,,,
+,,,"pulmão não pequenas células (CPNPC), com histologia de",,,,,,,,,,,,,,,,
+,,,"adenocarcinoma, localmente avançado ou metastático,",,,,,,,,,,,,,,,,
+,,,com mutações no receptor do fator de crescimento,,,,,,,,,,,,,,,,
+,,,"epidermóide (EGFR), não tratados previamente com",,,,,,,,,,,,,,,,
+,,,inibidores da tirosina quinase do EGFR.,,,,,,,,,,,,,,,,
+Alectinibe,Pulmão,,Tratamento de câncer de pulmão não pequenas células,,,,,,,,,,,,,,,,
+,,,(CPNPC) localmente avançado ou metastático que seja,,,,,,,,,,,,,,,,
+,,,positivo para quinase de linfoma anaplásico (ALK).,,,,,,,,,,,,,,,,
+Anastrozol,Mama,"Adjuvante na pós-menopausa em mulheres com tumor
+receptor hormonal positivo.",,,,,,,,,,,,,,,,,
+,Mama,"Primeira linha de tratamento em mulheres na pós-
+menopausa com câncer de mama metastático receptor
+hormonal positivo.",,,,,,,,,,,,,,,,,
+,Mama,"Câncer de mama metastático em mulheres na pós-
+menopausa com progressão da doença em uso de
+tamoxifeno.",,,,,,,,,,,,,,,,,
+Apalutamida,Próstata,Câncer de próstata não metastático resistente à castração.,,,,,,,,,,,,,,,,,
+,Próstata,"Tratamento de pacientes com câncer de próstata
+metastático sensível à castração (CPSCm). (Incluído pela
+RN nº 537, a partir de 31/05/2022)",,,,,,,,,,,,,,,,,
+Asciminibe,"LMC - Leucemia
+Mielocítica (mielóide,
+mielógena, granulocítica)
+Crônica","Adultos com leucemia mieloide crônica cromossomo
+Philadelphia positivo (LMC Ph+) em fase crônica (FC),
+previamente tratados com dois ou mais inibidores da
+tirosina quinase (ITQ). (Incluído pela RN nº 618, a partir de
+02/12/2024)",,,,,,,,,,,,,,,,,
+Metastático resistente à castração que são assintomáticos,,,,,,,,,,,,,,,,,,,
+"ou levemente sintomáticos, após falha à terapia de",,,,,,,,,,,,,,,,,,,
+privação androgênica.,,,,,,,,,,,,,,,,,,,
+LLC - Leucemia Linfocítica,,,,,,,,,,,,,,,,,,,
+Crônica,,,,,,,,,,,,,,,,,,,
+LLC - Leucemia Linfocítica,,,,,,,,,,,,,,,,,,,
+Crônica,,,,,,,,,,,,,,,,,,,
+LCM - Linfoma de células,,,,,,,,,,,,,,,,,,,
+do manto,,,,,,,,,,,,,,,,,,,
+Tratamento de pacientes com câncer de próstata,,,,,,,,,,,,,,,,,,,
+metastático sensível à castração (CPSCm).,,,,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+Axitinibe,Rim,"Em combinação com Pembrolizumabe, para o tratamento
+de primeira linha de pacientes com carcinoma de células
+renais (CCR) avançado ou metastático, com risco
+prognóstico IMDC intermediário ou desfavorável (IMDC:
+ferramenta para avaliação de risco da International
+Metastatic Renal Cell Carcinoma Database Consortium).
+(Incluído pela RN nº 550, a partir de 09/11/2022)",,,,,,,,,,,,,,,,,
+Bicalutamida,Próstata,"Avançado em combinação com o tratamento com
+análogos do LHRH ou castração cirúrgica.",,,,,,,,,,,,,,,,,
+,Próstata,"Metastático em pacientes nos quais a castração cirúrgica
+ou medicamentosa não está indicada ou não é aceitável.",,,,,,,,,,,,,,,,,
+Brigatinibe,Pulmão,"Tratamento de pacientes com câncer de pulmão não
+pequenas células (CPNPC) localmente avançado ou
+metastático que seja positivo para quinase de linfoma
+anaplásico (ALK+), em primeira linha. (Incluído pela RN nº
+536, a partir de 06/05/2022)",,,,,,,,,,,,,,,,,
+Bussulfano,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+Capecitabina,Colorretal,Primeira Linha em câncer metastático.,,,,,,,,,,,,,,,,,
+,Colorretal,"Adjuvante para pacientes em estágio II com critério de alto
+risco ou Dukes C (estágio III), submetidos à ressecção
+completa do tumor primário.",,,,,,,,,,,,,,,,,
+,Gástrico,"Câncer em estágio avançado, desde que associado com
+compostos de platina, como a cisplatina ou oxaliplatina.",,,,,,,,,,,,,,,,,
+,Mama,"Metastático, após falha de antraciclina ou taxano, ou em
+face de contraindicação para estas medicações.",,,,,,,,,,,,,,,,,
+Cabozantinibe,Rim,"Tratamento do carcinoma de células renais (CCR) avançado
+em adultos após tratamento prévio com inibidor do fator
+de crescimento endotelial vascular (VEGF).",,,,,,,,,,,,,,,,,
+,Rim,"Em combinação com Nivolumabe, para o tratamento de
+primeira linha de pacientes adultos com carcinoma de
+células renais (CCR) avançado. (Incluído pela RN nº 550, a
+partir de 09/11/2022)",,,,,,,,,,,,,,,,,
+,Tireoide,"Tratamento, em segunda linha, do carcinoma diferenciado
+de tireoide localmente avançado ou metastático, refratário
+ou não elegível ao iodo radioativo, de pacientes que
+progrediram após tratamento prévio com terapias alvo
+para receptores de expressão do fator de crescimento
+endotelial vascular – VEGFR. (Incluído pela RN nº 583, a
+partir de 01/08/2023)",,,,,,,,,,,,,,,,,
+Ciclofosfamida,Leucemias,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Linfomas,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Mama,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Micose Fungóide,Estágios avançados.,,,,,,,,,,,,,,,,,
+,Mieloma Múltiplo,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Neuroblastomas,Em pacientes com disseminação.,,,,,,,,,,,,,,,,,
+,Ovário,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Retinoblastomas,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+Citrato de ixazomibe,Mieloma Múltiplo,"Em combinação com Lenalidomida e Dexametasona, para
+o tratamento de pacientes com mieloma múltiplo que
+receberam pelo menos um tratamento anterior.",,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+Cobimetinibe,Melanoma,"Em combinação com Vemurafenibe, para o tratamento de
+pacientes com melanoma positivo para mutações BRAF
+bV600 irressecável ou metastático.",,,,,,,,,,,,,,,,,
+Clorambucila,Linfoma de Hodgkin,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Linfoma Não-Hodgkin,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,"LLC - Leucemia Linfocítica
+Crônica",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+Crizotinibe,Pulmão,"Tratamento de câncer de pulmão não pequenas células
+(CPNPC) avançado que seja positivo para quinase de
+linfoma anaplásico (ALK).",,,,,,,,,,,,,,,,,
+Dasatinibe,"LLA - Leucemia Linfocítica
+(Linfoblástica) Aguda","Cromossomo Ph+ com resistência ou intolerância à terapia
+anterior.",,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica","Fases crônica, acelerada ou blástica mieloide/linfoide com
+resistência ou intolerância ao tratamento anterior
+incluindo imatinibe.",,,,,,,,,,,,,,,,,
+Dabrafenibe,Melanoma,"Melanoma metastático ou irressecável com mutação do
+gene BRAF V600E.",,,,,,,,,,,,,,,,,
+Dabrafenibe,Melanoma,"Em combinação com Dimetilsulfóxido de trametinibe, para
+o tratamento adjuvante de pacientes com melanoma de
+estágio III com mutação BRAF V600, após ressecção
+completa.",,,,,,,,,,,,,,,,,
+Darolutamida,Próstata,"Tratamento de pacientes com câncer de próstata não
+metastático resistente à castração. (Incluído pela RN nº
+513/2022, a partir de 01/04/2022)",,,,,,,,,,,,,,,,,
+,Próstata,"Em combinação com docetaxel, para o tratamento de
+pacientes com câncer de próstata metastático hormônio-
+sensível. (Incluído pela RN nº 577/2023, a partir de
+09/05/2023)",,,,,,,,,,,,,,,,,
+Dietiletilbestrol,Mama,Casos paliativos.,,,,,,,,,,,,,,,,,
+,Próstata,Casos paliativos.,,,,,,,,,,,,,,,,,
+Encorafenibe,Colorretal,"Em combinação com cetuximabe, para o tratamento, em
+segunda linha, de pacientes com câncer colorretal
+metastático com a mutação no gene BRAF V600E. (Incluído
+pela RN nº 589/2023, a partir de 01/12/2023)",,,,,,,,,,,,,,,,,
+,Melanoma,"Em combinação com Binimetinibe, para o tratamento de
+pacientes adultos com melanoma irressecável ou
+metastático com mutação BRAF V600, em primeira linha.
+(Incluído pela RN nº 588/2023, a partir de 01/11/2023)",,,,,,,,,,,,,,,,,
+Enzalutamida,Próstata,"Adultos com câncer de próstata não metastático resistente
+à castração.",,,,,,,,,,,,,,,,,
+,Próstata,"Metastático resistente à castração em homens que
+receberam quimioterapia prévia com Docetaxel.",,,,,,,,,,,,,,,,,
+,Próstata,"Metastático resistente à castração em adultos que são
+assintomáticos ou ligeiramente sintomáticos após falha de
+terapia de privação androgênica.",,,,,,,,,,,,,,,,,
+,Próstata,"Tratamento de pacientes com câncer de próstata
+metastático sensível à castração (CPSCm). (Incluído pela
+RN nº 537, a partir de 31/05/2022)",,,,,,,,,,,,,,,,,
+"Erlotinibe, Cloridrato de",Pulmão,"Câncer de pulmão de não pequenas células não escamoso;
+Indicado em primeira linha nos pacientes com doença
+metastática ou irressecável com mutação nos éxons 19 ou
+21.",,,,,,,,,,,,,,,,,
+Esilato de nintedanibe,Pulmão,"Em associação ao Docetaxel para o tratamento de
+pacientes com câncer de pulmão não pequenas células",,,,,,,,,,,,,,,,,
+Tratamento de pacientes com câncer de próstata,,,,,,,,,,,,,,,,,,,
+metastático sensível à castração (CPSCm).,,,,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,,LOCALIZAÇÃO,,INDICAÇÃO,,,,,,,,,,,,,,,
+,,,,"(CPNPC) localmente avançado, metastático ou recorrente,
+com histologia de adenocarcinoma, após primeira linha de
+quimioterapia à base de platina.",,,,,,,,,,,,,,,
+Etoposídeo,,,Leucemias agudas,,Não linfocíticas.,,,,,,,,,,,,,,
+,,,Linfoma de Hodgkin,,Sem especificação de fase da doença.,,,,,,,,,,,,,,
+,,,Linfoma Não-Hodgkin,,Sem especificação de fase da doença.,,,,,,,,,,,,,,
+,Etoposídeo,,,,,,,,,,,,,,,,,,
+,,,Pulmão pequenas células,,Em combinação com outros agentes quimioterápicos.,,,,,,,,,,,,,,
+,,Testículo,,,Tumores refratários que já receberam tratamento,,,,,,,,,,,,,,
+,,,,,"cirúrgico, quimioterápico e radioterápico apropriados",,,,,,,,,,,,,,
+Everolimus,,Mama,,"Câncer de mama metastático receptor hormonal positivo
+após falha de primeira linha hormonal, em associação com
+exemestano.",,,,,,,,,,,,,,,
+,,Pâncreas,,"Pacientes com tumores neuroendócrinos avançados (TNE)
+localizados no pâncreas.",,,,,,,,,,,,,,,
+,,Estômago,,"Pacientes com tumores neuroendócrinos avançados (NET)
+localizados no estômago.",,,,,,,,,,,,,,,
+,,Intestino,,"Pacientes com tumores neuroendócrinos avançados (NET)
+localizados no intestino.",,,,,,,,,,,,,,,
+,,Pulmão,,"Pacientes com tumores neuroendócrinos avançados (NET)
+localizados no pulmão.",,,,,,,,,,,,,,,
+Exemestano,,Mama,,"Adjuvante em mulheres na pós-menopausa com tumor
+receptor hormonal positivo, seja de início imediato ou
+após 2-3 anos de tratamento com tamoxifeno.",,,,,,,,,,,,,,,
+,,Mama,,"Câncer de mama metastático em mulheres na menopausa,
+com tumores receptor hormonal positivo, seja em primeira
+linha, seja após falha de moduladores de receptor de
+estrógeno.",,,,,,,,,,,,,,,
+,,Mama,,"Terapia pré-operatória em mulheres na pós-menopausa
+com câncer de mama localmente avançado receptor
+hormonal positivo, com a intenção de permitir cirurgia
+conservadora da mama.",,,,,,,,,,,,,,,
+Fludarabina,,"LLC - Leucemia Linfocítica
+Crônica",,Tumores de células B.,,,,,,,,,,,,,,,
+Flutamida,,Próstata,,"Indicado como monoterapia (com ou sem orquiectomia)
+ou em combinação com um agonista LHRH (""luteinizing
+hormone-releasing hormone""), no tratamento do câncer
+avançado em pacientes não-tratados previamente ou em
+pacientes que não responderam ou se tornaram
+r efratários à castração.",,,,,,,,,,,,,,,
+Gefitinibe,,"Pulmão não pequenas-
+células",,"Câncer de pulmão de não pequenas células não escamoso;
+Indicado em primeira linha nos pacientes com doença
+metastática ou irressecável com mutação nos éxons 19 ou
+21.",,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+"Gilteritinibe,
+Hemifumarato de","Leucemia Mielóide Aguda
+(LMA)","Em monoterapia para o tratamento de pacientes adultos
+com leucemia mieloide aguda (LMA) recidivada ou
+refratária com mutação no gene FLT3 (tirosina quinase 3
+semelhante à FMS). A cobertura não será obrigatória nos
+casos de terapia de manutenção após transplante de célula
+tronco hematopoiética (TCTH). (Incluído pela RN nº 540, a
+partir de 06/07/2022)",,,,,,,,,,,,,,,,,
+Hidroxiuréia,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica",Fase crônica.,,,,,,,,,,,,,,,,,
+Ibrutinibe,"LLC - Leucemia linfocítica
+crônica / LLPC - Linfoma
+linfocítico de pequenas
+células","Tratamento de pacientes que apresentam leucemia
+linfocítica crônica/linfoma linfocítico de pequenas células
+(LLC/LLPC).",,,,,,,,,,,,,,,,,
+,"LLC - Leucemia linfocítica
+crônica / LLPC - Linfoma
+linfocítico de pequenas
+células","Em combinação com venetoclax, para pacientes adultos
+com leucemia linfocítica crônica/linfoma linfocítico de
+pequenas células (LLC/LLPC) em primeira linha de
+tratamento. (Incluído pela RN 611/2024, em vigor a partir
+de 02/09/2024)",,,,,,,,,,,,,,,,,
+,"LCM - Linfoma de células
+do manto","Tratamento do linfoma de células do manto em pacientes
+que receberam no mínimo um tratamento anterior
+contendo rituximabe.",,,,,,,,,,,,,,,,,
+Imatinibe,"LLA - Leucemia Linfocítica
+(Linfoblástica) Aguda",Cromossomo Ph+ recaída ou refratária.,,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica","Recém diagnosticada LMC Cromossomo Ph+ fase crônica;
+crise blástica; fase acelerada; fase crônica após falha de
+interferon.",,,,,,,,,,,,,,,,,
+,"GIST - Tumor estromal
+gastrintestinal",Irressecável ou metastático.,,,,,,,,,,,,,,,,,
+,"GIST - Tumor estromal
+gastrintestinal","Adjuvante do tratamento de casos ressecados de alto
+risco.",,,,,,,,,,,,,,,,,
+Lenalidomida,LF - Linfoma folicular,"Em combinação com rituximabe, para tratamento de
+pacientes com linfoma folicular previamente tratados.
+(Incluído pela RN 610/2024, em vigor a partir de
+01/08/2024)",,,,,,,,,,,,,,,,,
+,Mieloma múltiplo,"Em combinação com Dexametasona, para o tratamento de
+pacientes com mieloma múltiplo refratário recidivado
+(MMRR) que receberam ao menos um esquema prévio de
+tratamento.",,,,,,,,,,,,,,,,,
+,Mieloma múltiplo,"Em monoterapia para o tratamento de manutenção de
+pacientes com mieloma múltiplo recém-diagnosticado que
+foram submetidos a transplante autólogo de células-
+tronco.",,,,,,,,,,,,,,,,,
+,Mieloma múltiplo,"Em terapia combinada*, para o tratamento de pacientes
+com mieloma múltiplo que não receberam tratamento
+prévio e não são elegíveis a transplante.
+*Lenalidomida em combinação com Dexametasona (Rd);
+Lenalidomida em combinação com Melfalano e Prednisona
+seguida por tratamento de manutenção com Lenalidomida
+(MPR+R); Lenalidomida em combinação com Bortezomibe
+e Dexametasona (RVd).",,,,,,,,,,,,,,,,,
+,Síndrome mielodisplásica,"Tratamento de pacientes com anemia dependente de
+transfusões decorrente de síndrome mielodisplásica de
+risco baixo ou intermediário-1, associada à anormalidade
+citogenética de deleção 5q, com ou sem anormalidades
+citogenéticas adicionais.",,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+"Lapatinibe, Ditosilato de",Mama,"Tratamento do tumor metastático HER2+, após falha de
+trastuzumabe, em associação com capecitabina ou
+letrozol.",,,,,,,,,,,,,,,,,
+Lenvatinibe,Endométrio,"Em combinação com pembrolizumabe, para o tratamento
+de pacientes adultas com câncer endometrial (CE)
+avançado, que apresentem progressão da doença após
+terapia sistêmica prévia à base de platina, proficientes em
+reparo de incompatibilidade do DNA (pMMR), e que não
+sejam candidatas à cirurgia curativa ou radiação
+(radioterapia). (Incluído pela RN nº 588, a partir de
+01/11/2023)",,,,,,,,,,,,,,,,,
+,Fígado,"Tratamento de pacientes com carcinoma hepatocelular
+(CHC), que não receberam terapia sistêmica anterior para
+doença avançada ou não ressecável.",,,,,,,,,,,,,,,,,
+,Tireoide,"Tratamento de pacientes adultos com carcinoma
+diferenciado da tireoide (CDT) localmente avançado ou
+metastático, progressivo, refratário a radiodoterapia (RIT).
+(Incluído pela RN nº 578, a partir de 03/07/2023)",,,,,,,,,,,,,,,,,
+Letrozol,Mama,"Neoadjuvante, adjuvante ou metástatico em mulheres na
+pós-menopausa com tumores receptor hormonal positivo.",,,,,,,,,,,,,,,,,
+Lorlatinibe,Pulmão,"Tratamento de pacientes com câncer de pulmão não
+pequenas células (CPNPC) localmente avançado ou
+metastático que seja positivo para quinase de linfoma
+anaplásico (ALK+), em primeira linha. (Incluído pela RN nº
+537, a partir de 31/05/2022)",,,,,,,,,,,,,,,,,
+"Megestrol, Acetato de",Endométrio,"Como paliativo do carcinoma avançado (doença
+recorrente, inoperável ou metastática).",,,,,,,,,,,,,,,,,
+,Mama,"Como paliativo do carcinoma avançado (doença
+recorrente, inoperável ou metastática).",,,,,,,,,,,,,,,,,
+Melfalano,Mieloma Múltiplo,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Ovário,Câncer Avançado.,,,,,,,,,,,,,,,,,
+Mercaptopurina,"LLA - Leucemia Linfocítica
+(Linfoblástica) Aguda",Indução da remissão e manutenção.,,,,,,,,,,,,,,,,,
+,"LMA - Leucemia Mielóide
+(mielocítica, mielógena,
+mieloblástica,
+mielomonocítica) Aguda",Indução da remissão e manutenção.,,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+Metotrexato,Cabeça e pescoço,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Linfoma não-Hodgkin,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,"LLA - Leucemia Linfocítica
+(Linfoblástica) Aguda",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Mama,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,Sarcoma osteogênico,Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,"Tumor trofloblástico
+gestacional",S em especificação de fase da doença.,,,,,,,,,,,,,,,,,
+Midostaurina,"LMA - Leucemia mielóide
+aguda","Em combinação com quimioterapia em primeira linha para
+pacientes com mutação de FLT3.",,,,,,,,,,,,,,,,,
+Mitotano,Córtex suprarenal,Carcinoma inoperável.,,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica","Adultos com leucemia mieloide crônica cromossomo
+Philadelphia positivo (LMC Ph+) em fase crônica (FC) ou em",,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+,,"fase acelerada após falha ou intolerância a pelo menos
+uma terapia prévia, incluindo Imatinibe.",,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica","Adultos com leucemia mieloide crônica cromossomo
+Philadelphia positivo (LMC Ph+) em fase crônica recém-
+diagnosticada, com escore sokal de alto risco.",,,,,,,,,,,,,,,,,
+Niraparibe,Ovário,"Terapia de manutenção de pacientes adultas com
+carcinoma de ovário, da trompa de Falópio ou peritoneal
+primário avançado (Estágios III e IV – FIGO) de alto grau,
+que responderam completamente ou em parte, após a
+conclusão da quimioterapia de primeira linha à base de
+platina. (Incluído pela RN nº 550, a partir de 09/11/2022)",,,,,,,,,,,,,,,,,
+Olaparibe,Ovário,"Tratamento de manutenção de pacientes adultas com
+carcinoma de ovário seroso (incluindo trompa de Falópio
+ou peritoneal primário) ou endometrioide, de alto grau
+(grau 2 ou maior), recidivado, com mutação BRCA, sensível
+à quimioterapia baseada em platina (resposta completa ou
+parcial). (Incluído pela RN nº 542, a partir de 01/09/2022)",,,,,,,,,,,,,,,,,
+,Ovário,"Tratamento de manutenção de pacientes adultas com
+carcinoma de ovário (incluindo trompa de Falópio ou
+peritoneal primário), recentemente diagnosticado, de alto
+grau (grau 2 ou maior), avançado, com mutação BRCA, que
+respondem (resposta completa ou parcial) à quimioterapia
+em primeira linha, baseada em platina. (Incluído pela RN
+nº 542, a partir de 01/09/2022)",,,,,,,,,,,,,,,,,
+,Ovário,"Em associação a bevacizumabe, para o tratamento de
+manutenção de pacientes adultas com carcinoma epitelial
+avançado (estágio FIGO III-IV) de ovário (incluindo trompa
+de Falópio ou peritoneal primário) com status HRD positivo
+e que respondem (resposta completa ou parcial) à
+quimioterapia em primeira linha, baseada em platina.
+(Incluído pela RN nº 577, a partir de 09/05/2023)",,,,,,,,,,,,,,,,,
+,Mama,"Tratamento adjuvante de pacientes adultos com câncer de
+mama inicial de alto risco HER2 negativo, com mutação
+BRCA, que foram previamente tratados com quimioterapia
+neoadjuvante ou adjuvante. (Incluído pela RN nº
+605/2024, a partir de 01/07/2024)",,,,,,,,,,,,,,,,,
+Osimertinibe,Pulmão,"Tratamento de primeira linha de pacientes com câncer de
+pulmão de não pequenas células (CPNPC) localmente
+avançado ou metastático, cujo tumor apresenta mutações
+de deleções do éxon 19 ou de substituição do éxon 21
+(L858R) dos receptores do fator de crescimento
+epidérmico (EGFRS).",,,,,,,,,,,,,,,,,
+,,"Tratamento adjuvante após ressecção do tumor em
+pacientes com câncer de pulmão de células não pequenas
+(CPNPC) cujo tumor apresenta mutações de deleções do
+éxon 19 ou de substituição do éxon 21 (L858R) dos
+Receptores do Fator de Crescimento Epidérmico (EGFRs).
+(Incluído pela RN nº 603, a partir de 02/05/2024)",,,,,,,,,,,,,,,,,
+Palbociclibe,Mama,"Tratamento do câncer de mama avançado ou metastático
+HR (receptor hormonal) positivo e HER2 (receptor 2 do
+fator de crescimento epidérmico humano) negativo, em
+combinação com inibidores de aromatase de terceira
+geração (anastrozol, letrozol ou exemestano) como terapia
+endócrina inicial em mulheres pós-menopausa; ou com
+fulvestranto em mulheres que receberam terapia prévia.",,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+Pazopanibe,Rim,Irressecável ou metastático em primeira linha.,,,,,,,,,,,,,,,,,
+Pomalidomida,Mieloma Múltiplo,"Em combinação com bortezomibe e dexametasona, para o
+tratamento de pacientes com mieloma múltiplo recidivado
+refratário, após pelo menos uma terapia anterior,
+incluindo lenalidomida. (Incluído pela RN nº 591, a partir
+de 02/01/2024)",,,,,,,,,,,,,,,,,
+Ponatinibe,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica","Fases crônica, acelerada ou blástica com falha/resistência
+ou intolerância aos inibidores de tirosina quinase de
+segunda geração. (Incluído pela RN nº 629/2025, a partir
+de 17/03/2025)",,,,,,,,,,,,,,,,,
+Regorafenibe,Fígado,"Pacientes adultos com carcinoma hepatocelular (CHC) que
+tenham sido previamente tratados com Sorafenibe.",,,,,,,,,,,,,,,,,
+,Colorretal,"Tratamento de pacientes adultos com câncer colorretal
+(CCR) metastático que tenham sido previamente tratados
+com, ou não sejam considerados candidatos para, as
+terapias disponíveis. Estas incluem quimioterapia à base de
+fluoropirimidinas, terapia anti-VEGF e terapia anti-EGFR.
+(Incluído pela RN nº 546, a partir de 03/10/2022)",,,,,,,,,,,,,,,,,
+Ribociclibe,Mama,"Tratamento de pacientes, com câncer de mama
+localmente avançado ou metastático, receptor hormonal
+(RH) positivo e receptor para o fator de crescimento
+epidérmico humano tipo 2 (HER2) negativo, em
+combinação com um Inibidor de aromatase ou
+Fulvestranto. Em mulheres na pré ou perimenopausa, a
+terapia endócrina deve ser combinada com um agonista do
+hormônio liberador do hormônio luteinizante (LHRH).",,,,,,,,,,,,,,,,,
+Ruxolitinibe,Mielofibrose,"Pacientes com mielofibrose de risco intermediário ou alto,
+incluindo mielofibrose primária, mielofibrose pós-
+policitemia vera ou mielofibrose pós-trombocitemia
+essencial.",,,,,,,,,,,,,,,,,
+Sorafenibe,Fígado,Hepatocarcinoma avançado em pacientes child A.,,,,,,,,,,,,,,,,,
+"Sunitinibe, Malato de","GIST - Tumor estromal
+gastrintestinal","Tumor estromal gastrintestinal (GIST) após progressão da
+doença em uso de imatinibe ou intolerância ao imatinibe.",,,,,,,,,,,,,,,,,
+,Rim,Irressecável ou metastático em primeira linha.,,,,,,,,,,,,,,,,,
+,Pâncreas,"Pacientes com tumores neuroendócrinos avançados (NET)
+localizados no pâncreas.",,,,,,,,,,,,,,,,,
+"Tamoxifeno, Citrato de",Mama,"Neoadjuvante, adjuvante ou metástatico em carcinoma de
+mama com tumores receptor hormonal positivo.",,,,,,,,,,,,,,,,,
+Temozolamida,"SNC - Sistema Nervoso
+Central","Glioblastoma multiforme em adjuvância ou doença
+recidivada.",,,,,,,,,,,,,,,,,
+,"SNC - Sistema Nervoso
+Central","Glioma maligno, tal como glioblastoma multiforme ou
+astrocitoma anaplásico, recidivante ou progressivo após
+terapia padrão.",,,,,,,,,,,,,,,,,
+Tioguanina,"LLA - Leucemia Linfocítica
+(Linfoblástica) Aguda",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,"LMA - Leucemia Mielóide
+(mielocítica, mielógena,
+mieloblástica,
+mielomonocítica) Aguda",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+,"LMC - Leucemia Mielocítica
+(mielóide, mielógena,
+granulocítica) Crônica",Sem especificação de fase da doença.,,,,,,,,,,,,,,,,,
+"Topotecana, Cloridrato de",Pulmão,"Câncer de pulmão pequenas células nos casos de recaída
+após falha de quimioterápico de 1ª linha.",,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,LOCALIZAÇÃO,INDICAÇÃO,,,,,,,,,,,,,,,,,
+Trametinibe,Melanoma,"Em combinação com dabrafenibe é indicado para o
+tratamento de pacientes com melanoma não ressecável ou
+metastático com mutação BRAF V600.",,,,,,,,,,,,,,,,,
+Tretinoína (ATRA),Leucemia Promielocítica,Indução de remissão.,,,,,,,,,,,,,,,,,
+"Trifluridina / Cloridrato
+de tipiracila (FTD/TPI)",Colorretal,"Tratamento de pacientes com câncer colorretal
+metastático que tenham sido tratados previamente com,
+ou não são considerados candidatos para, terapias
+disponíveis incluindo quimioterapia à base de
+fluoropirimidina, oxaliplatina e irinotecano, terapia anti-
+VEGF e, se for RAS do tipo selvagem, uma terapia anti-
+EGFR. (Incluído pela RN nº 536, a partir de 06/05/2022)",,,,,,,,,,,,,,,,,
+,Estômago,"Tratamento de pacientes adultos com câncer gástrico
+metastático, incluindo adenocarcinoma da junção
+gastroesofágica, que foram previamente tratados com
+pelo menos dois regimes anteriores de tratamento
+sistêmico para doença avançada. (Incluído pela RN nº 536,
+a partir de 06/05/2022)",,,,,,,,,,,,,,,,,
+Vemurafenibe,Melanoma,"Metastático com mutação V600 do gene BRAF, primeira
+linha.",,,,,,,,,,,,,,,,,
+Venetoclax,"LMA - Leucemia mielóide
+aguda","Em combinação com um Agente hipometilante ou em
+combinação com Citarabina em baixa dose, para o
+tratamento de pacientes recém-diagnosticados com LMA e
+que são inelegíveis para quimioterapia intensiva.",,,,,,,,,,,,,,,,,
+,"LLC - Leucemia linfocítica
+crônica","Em combinação com Rituximabe, para o tratamento da
+leucemia linfocítica crônica (LLC) em pacientes que tenham
+recebido pelo menos uma terapia prévia.",,,,,,,,,,,,,,,,,
+,"LLC - Leucemia linfocítica
+crônica","Em combinação com obinutuzumabe, para pacientes
+adultos com leucemia linfocítica crônica (LLC) em primeira
+linha de tratamento. (Incluído pela RN nº 536, a partir de
+06/05/2022)",,,,,,,,,,,,,,,,,
+Vinorelbina,Pulmão,Carcinoma de pulmão não pequenas células.,,,,,,,,,,,,,,,,,
+,Mama,Carcinoma de mama.,,,,,,,,,,,,,,,,,
+Zanubrutinibe,"LCM - Linfoma de células
+do manto","Tratamento de pacientes adultos com linfoma de células
+do manto (LCM) que receberam pelo menos uma terapia
+anterior. (Incluído pela RN nº 571, a partir de 10/02/2023)",,,,,,,,,,,,,,,,,
+,"LLC – Leucemia linfocítica
+crônica / LLPC - Linfoma
+linfocítico de pequenas
+células","Tratamento de pacientes adultos com leucemia linfocítica
+Crônica (LLC) ou linfoma linfocítico de células pequenas
+(LLCP) em primeira linha. (Incluído pela RN nº 624, a partir
+de 03/02/2025)",,,,,,,,,,,,,,,,,
+,"LLC – Leucemia linfocítica
+crônica / LLPC - Linfoma
+linfocítico de pequenas
+células","Tratamento de pacientes adultos com leucemia linfocítica
+Crônica (LLC) ou linfoma linfocítico de células pequenas
+(LLCP) recidivante refratário (RR). (Incluído pela RN nº 624,
+a partir de 03/02/2025)",,,,,,,,,,,,,,,,,
+,Grau de parentesco,,,Denominação,,,,,,,,,,,,,,,
+parentes de primeiro grau,,,"mãe, pai, filha, filho, irmã, irmão.",,,,,,,,,,,,,,,,
+parentes de segundo grau,,,"avó, avô, neta, neto, tia, tio, sobrinha, sobrinho, meia-irmã,
+meio-irmão.",,,,,,,,,,,,,,,,
+parentes de terceiro grau,,,"bisavó, bisavô, tia-avó, tio-avô, prima de primeiro grau,
+primo de primeiro grau, bisneta, bisneto, sobrinhaneta,
+sobrinhoneto.",,,,,,,,,,,,,,,,
+TERAPIA IMUNOPROFILÁTICA COM PALIVIZUMABE PARA O VÍRUS SINCICIAL,,,,,,,,,,,,,,,,,,,
+,Região,,,Sazonalidade,,,Período de Aplicação,,,,,,,,,,,,
+Norte,,,Fevereiro a Junho,,,Janeiro a Junho,,,,,,,,,,,,,
+Nordeste,,,Março a Julho,,,Fevereiro a Julho,,,,,,,,,,,,,
+Centro-Oeste,,,Março a Julho,,,Fevereiro a Julho,,,,,,,,,,,,,
+Sudeste,,,Março a Julho,,,Fevereiro a Julho,,,,,,,,,,,,,
+Sul,,,Abril a Agosto,,,Março a Agosto,,,,,,,,,,,,,
+CONSULTA/AVALIAÇÃO COM FONOAUDIÓLOGO,,,,,,,,,,,,,,,,,,,
+CONSULTA/AVALIAÇÃO COM PSICÓLOGO,,,,,,,,,,,,,,,,,,,
+CONSULTA/AVALIAÇÃO COM TERAPEUTA OCUPACIONAL,,,,,,,,,,,,,,,,,,,
+SUBSTÂNCIA,INDICAÇÃO,,,,,,,,,,,,,,,,,,
+Alfaepoetina,,Tratamento em primeira linha de pacientes adultos com Síndrome Mielodisplásica de,,,,,,,,,,,,,,,,,
+,,Baixo Risco com anemia sintomática (Hb menor ou igual a 10 g/L) e antes da,,,,,,,,,,,,,,,,,
+,,"dependência transfusional estabelecida. (Incluído pela RN 575/2023, em vigor a partir",,,,,,,,,,,,,,,,,
+,,de 10/03/2022),,,,,,,,,,,,,,,,,
+Anfotericina B lipossomal,,"Tratamento da mucormicose rino-órbito-cerebral. (Incluído pela RN 546/2022, em vigor",,,,,,,,,,,,,,,,,
+,,a partir de 03/10/2022),,,,,,,,,,,,,,,,,
+Anidulafungina,,Tratamento de pacientes com candidemia e outras formas de candidíase invasiva.,,,,,,,,,,,,,,,,,
+,,"(Incluído pela RN 546/2022, em vigor a partir de 03/10/2022)",,,,,,,,,,,,,,,,,
+Carboximaltose férrica,,Tratamento de pacientes adultos com anemia por deficiência de ferro e intolerância ou,,,,,,,,,,,,,,,,,
+,,"contraindicação aos sais orais de ferro. (Incluído pela RN 581/2023, em vigor a partir de",,,,,,,,,,,,,,,,,
+,,12/07/2022),,,,,,,,,,,,,,,,,
+Derisomaltose férrica,,"Tratamento de pacientes adultos com anemia por deficiência de ferro, após falha",,,,,,,,,,,,,,,,,
+,,"terapêutica, intolerância ou contraindicação aos sais de ferro oral. (Incluído pela RN",,,,,,,,,,,,,,,,,
+,,"625/2024, em vigor a partir de 23/12/2024)",,,,,,,,,,,,,,,,,
+Ganciclovir,,Tratamento de infecções causadas por Citomegalovírus (CMV) em indivíduos,,,,,,,,,,,,,,,,,
+,,imunossuprimidos pelo Vírus da Imunodeficiência Humana (HIV). (Incluído pela RN nº,,,,,,,,,,,,,,,,,
+,,"616/2024, em vigor a partir de 22/10/2024)",,,,,,,,,,,,,,,,,
+Isavuconazol,,Tratamento da fase de consolidação em pacientes com mucormicose. (Incluído pela RN,,,,,,,,,,,,,,,,,
+,,"546/2022, em vigor a partir de 03/10/2022)",,,,,,,,,,,,,,,,,
+Pamoato de pasireotida,,"Tratamento de pacientes adultos, sem diabetes, com acromegalia, para os quais a",,,,,,,,,,,,,,,,,
+,,cirurgia do tumor hipofisário foi ineficaz ou é contraindicada e que não estão,,,,,,,,,,,,,,,,,
+,,adequadamente controlados com análogos da somatostatina de 1ª geração. (Incluído,,,,,,,,,,,,,,,,,
+,,"pela RN 610/2024, em vigor a partir de 01/08/2024)",,,,,,,,,,,,,,,,,
+Sulfato de gentamicina,,"Em combinação à doxiciclina, para o tratamento da brucelose humana. (Incluído pela",,,,,,,,,,,,,,,,,
+,,"RN 610/2024, em vigor a partir de 01/08/2024)",,,,,,,,,,,,,,,,,
+Voriconazol,,"Tratamento de pacientes com aspergilose invasiva. (Incluído pela RN 546/2022, em",,,,,,,,,,,,,,,,,
+,,vigor a partir de 03/10/2022),,,,,,,,,,,,,,,,,
+ABLAÇÃO POR RADIOFREQUÊNCIA PERCUTÂNEA DE METÁSTASES HEPÁTICAS DE,,,,,,,,,,,,,,,,,,,
+CÂNCER COLORRETAL GUIADA POR ULTRASSONOGRAFIA E/OU TOMOGRAFIA,,,,,,,,,,,,,,,,,,,
+COMPUTADORIZADA / ABLAÇÃO POR RADIOFREQUÊNCIA DE METÁSTASES,,,,,,,,,,,,,,,,,,,
+HEPÁTICAS DE CÂNCER COLORRETAL POR LAPAROTOMIA / ABLAÇÃO POR,,,,,,,,,,,,,,,,,,,
+RADIOFREQUÊNCIA DE METÁSTASES HEPÁTICAS DE CÂNCER COLORRETAL POR,,,,,,,,,,,,,,,,,,,
