@@ -47,3 +47,31 @@ FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+-- Top 10 operadoras com maiores despesas no último trimestre
+WITH ultimo_trimestre AS (
+    SELECT MAX(Ano) AS Ano, MAX(Trimestre) AS Trimestre
+    FROM despesas_medicas
+)
+SELECT d.REG_ANS, o.Nome_Fantasia, SUM(d.VL_SALDO_FINAL) AS Total_Despesas
+FROM despesas_medicas d
+JOIN operadoras o ON d.REG_ANS = o.Registro_ANS
+JOIN ultimo_trimestre ut ON d.Ano = ut.Ano AND d.Trimestre = ut.Trimestre
+WHERE d.DESCRICAO LIKE '%EVENTOS/SINISTROS CONHECIDOS%'
+GROUP BY d.REG_ANS, o.Nome_Fantasia
+ORDER BY Total_Despesas DESC
+LIMIT 10;
+
+-- Top 10 operadoras com maiores despesas no último ano
+WITH ultimo_ano AS (
+    SELECT MAX(Ano) AS Ano FROM despesas_medicas
+)
+SELECT d.REG_ANS, o.Nome_Fantasia, SUM(d.VL_SALDO_FINAL) AS Total_Despesas
+FROM despesas_medicas d
+JOIN operadoras o ON d.REG_ANS = o.Registro_ANS
+JOIN ultimo_ano ua ON d.Ano = ua.Ano
+WHERE d.DESCRICAO LIKE '%EVENTOS/SINISTROS CONHECIDOS%'
+GROUP BY d.REG_ANS, o.Nome_Fantasia
+ORDER BY Total_Despesas DESC
+LIMIT 10;
+
