@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Caminhos dos diretórios
-caminho_contabeis = "/content/dados_contabeis"
-caminho_operadoras = "/content/dados_operadoras"
+caminho_contabeis = "dados_contabeis"
+caminho_operadoras = "dados_operadoras"
 
 # 1. Carregar e consolidar os dados contabeis
 def carregar_dados_contabeis():
@@ -101,7 +101,7 @@ df_operadoras = carregar_dados_operadoras()
 df_despesas = filtrar_despesas(df_contabeis)
 
 # Carregar o trimestre específico (4T2024)
-df_trimestre = pd.read_csv("/content/dados_contabeis/4T2024.csv", delimiter=";", encoding="latin1", dtype=str)
+df_trimestre = pd.read_csv("dados_contabeis/4T2024.csv", delimiter=";", encoding="latin1", dtype=str)
 
 # Garantir que a coluna 'DATA' está presente e processar
 df_despesas = preparar_dados(df_trimestre)
